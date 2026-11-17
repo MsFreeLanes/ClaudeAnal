@@ -2,11 +2,19 @@
 
 A research and engineering knowledge base for advanced Claude prompting, reliable AI-assisted software development, systematic troubleshooting, prompt evaluation, and evidence-based technical handoffs.
 
-## Contents
+## Repository status
 
-- [Research paper](docs/research-paper.md) — the research paper and phased operating framework.
-- [Master operational prompt](prompts/master-operational-prompt.md) — reusable instructions for research, tool use, implementation, diagnostics, and verification.
-- [Troubleshooting protocol](docs/troubleshooting-protocol.md) — incident characterization and root-cause workflow.
+The repository is initialized on `main`. The complete documentation package has been prepared for import but is **not yet committed**.
+
+## Prepared documentation package
+
+The package contains:
+
+- **Research paper (Markdown):** the full research paper and eleven-phase operating lifecycle.
+- **Research paper (PDF):** formatted reading edition.
+- **Research paper (DOCX):** editable Word edition.
+- **Master operational prompt:** reusable instructions for research, tool use, implementation, diagnostics, and verification.
+- **Troubleshooting protocol:** incident characterization, hypothesis testing, root-cause confirmation, and regression verification.
 
 ## Operating principles
 
